@@ -1,0 +1,7 @@
+D:\DEV KODIO\C#\WinForms\Tools\CopyPathTool\CopyPathTool\bin\Debug\CopyPathTool.exe.config
+D:\DEV KODIO\C#\WinForms\Tools\CopyPathTool\CopyPathTool\bin\Debug\CopyPathTool.exe
+D:\DEV KODIO\C#\WinForms\Tools\CopyPathTool\CopyPathTool\bin\Debug\CopyPathTool.pdb
+D:\DEV KODIO\C#\WinForms\Tools\CopyPathTool\CopyPathTool\obj\Debug\CopyPathTool.Properties.Resources.resources
+D:\DEV KODIO\C#\WinForms\Tools\CopyPathTool\CopyPathTool\obj\Debug\CopyPathTool.csproj.GenerateResource.Cache
+D:\DEV KODIO\C#\WinForms\Tools\CopyPathTool\CopyPathTool\obj\Debug\CopyPathTool.exe
+D:\DEV KODIO\C#\WinForms\Tools\CopyPathTool\CopyPathTool\obj\Debug\CopyPathTool.pdb
